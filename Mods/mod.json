@@ -5,5 +5,6 @@
     "version": "1.0.0",
     "description": "Adds an option to invert mouse in both X and Y axes",
     "thumbnail": "Thumbnail.png",
-    "ai": "ai-free"
+    "ai": "ai-free",
+    "development": "inactive"
 }
