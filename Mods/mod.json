@@ -7,5 +7,5 @@
     "thumbnail": "Thumbnail.png",
     "ai": "ai-free",
     "development": "inactive",
-    "needs": ["sdmodkit"]
+    "needs": ["sdmodkit", "sdapi"]
 }
