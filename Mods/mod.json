@@ -6,6 +6,5 @@
     "description": "Adds an option to invert mouse in both X and Y axes",
     "thumbnail": "Thumbnail.png",
     "ai": "ai-free",
-    "development": "inactive",
-    "needs": ["sdmodkit", "sandbox_menu"]
+    "development": "inactive"
 }
